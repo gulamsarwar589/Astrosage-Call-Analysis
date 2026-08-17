@@ -251,14 +251,20 @@ customer experience issues.
 Contains the cleaned dataset, analysis, PivotTables, charts,
 dashboard and supporting calculations.
 
+👉 [View Excel Analysis](./AstroSage_Call_Analysis_Project.xlsx)
+
 ### 2. Objective & Subjective Questions
 
 Contains the completed project questions and supporting analysis.
+
+👉 [View Analysis Answers](./AstroSage_Call_Analysis_Answers.docx)
 
 ### 3. Storytelling Presentation
 
 Contains the data storytelling presentation covering the major
 findings, insights, recommendations and investment strategy.
+
+👉 [View Storytelling Presentation](./AstroSage_Call_Analysis_Storytelling.pptx)
 
 ---
 
